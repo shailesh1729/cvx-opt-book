@@ -88,6 +88,13 @@ jupyter-book build book
 Jupyter book will write the book's `HTML` content to `book/_build/html/`
 directory, so you can open `index.html` from there to view the local build.
 
+### Notes
+
+* Check which version of Sphinx is installed.
+* Jupyter-Book 0.13 doesn't seem to work well with Sphinx 5.x.
+* It works well with Sphinx 4.5.0.
+
+
 
 
 ## Publishing on gh-pages
