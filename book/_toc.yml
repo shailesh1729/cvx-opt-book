@@ -158,6 +158,7 @@ parts:
     - file: compressive_sensing/chapter_compressive_sensing
       sections:
         - file: compressive_sensing/sensing_matrices
+        - file: compressive_sensing/quantization
     - file: sparse_approx/ch_sparse_approx
       sections:
         - file: sparse_approx/stability

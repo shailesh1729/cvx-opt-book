@@ -1172,7 +1172,7 @@ above for a practical recovery algorithm.
 
 
 
- 
+(sec:ssm:cs:noise:recovery)= 
 ## Recovery in Presence of Measurement Noise
 
 ````{div}
